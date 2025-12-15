@@ -24,5 +24,5 @@ Collaboration is central to how I work. I enjoy building across disciplines, whe
 ## 📫 Contact
 
 - **Email:** aishwaryarad1503@gmail.com or aradhak6@ncsu.edu
-- **LinkedIn:** [[linkedin.com/in/your-link](https://www.linkedin.com/in/aishwarya-radhakrishnan-070345230/) ]
+- **LinkedIn:** [[My Linked In!](https://www.linkedin.com/in/aishwarya-radhakrishnan-070345230/) ]
 - **GitHub:** github.com/aishrad2
