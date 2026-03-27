@@ -9,3 +9,4 @@ I’m **Aishwarya Radhakrishnan**, a computer science student learning by buildi
 I focus on building human-centered, real-world technology and value collaboration across disciplines to create thoughtful, impactful systems.
 
 **Tech:** Java, Python, C, JavaScript, SQL · React · Git · REST APIs · RAG-based systems
+**My LinkedIn:** https://www.linkedin.com/in/aishwarya-radhakrishnan-070345230/
